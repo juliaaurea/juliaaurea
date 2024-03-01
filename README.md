@@ -5,7 +5,7 @@
 #
 <h2> Sobre mim </h2>
 
-|  18 anos
+| 15 anos
 
 | Estudante no Curso Técnico em Informática (CEFET-MG)
 
