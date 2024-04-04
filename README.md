@@ -14,7 +14,6 @@
 <div> 
   <a href="https://instagram.com/juaurea_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juliaaurea.rezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 </div>
 
 <div style="display: inline_block"><br>
